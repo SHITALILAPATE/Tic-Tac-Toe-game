@@ -14,5 +14,5 @@ Open `index.html` in a web browser to play the game.
 
 ## Customization
 
-Adjust player names and styles in `script.js`.
+Adjust player names and styles in `script.js`..
 
