@@ -16,3 +16,4 @@ Open `index.html` in a web browser to play the game.
 
 Adjust player names and styles in `script.js`..
 
+![Screenshot 2024-01-02 234140](https://github.com/SHITALILAPATE/Tic-Tac-Toe-game/assets/130491601/9f557904-dd6c-4b94-81dc-b01ebd9a4d42)
